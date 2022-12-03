@@ -1,0 +1,76 @@
+"C:\Program Files\nodejs\node.exe" ".\Assignments\Prog 03\test.js"
+SLS answer  36
+Time 3: 6.555908203125 ms
+Time 3: 6.865ms
+___Held-Karp answer  36
+___Times 3: 19.5380859375 ms
+___Times 3: 19.646ms
+SLS answer  42
+Time 4: 0.52587890625 ms
+Time 4: 0.71ms
+___Held-Karp answer  42
+___Times 4: 0.7958984375 ms
+___Times 4: 0.894ms
+SLS answer  69
+Time 5: 0.510009765625 ms
+Time 5: 0.621ms
+___Held-Karp answer  51
+___Times 5: 0.434814453125 ms
+___Times 5: 0.533ms
+SLS answer  79
+Time 6: 0.380126953125 ms
+Time 6: 0.481ms
+___Held-Karp answer  68
+___Times 6: 3.300048828125 ms
+___Times 6: 3.484ms
+SLS answer  124
+Time 7: 0.492919921875 ms
+Time 7: 0.694ms
+___Held-Karp answer  104
+___Times 7: 7.740966796875 ms
+___Times 7: 8.085ms
+SLS answer  116
+Time 8: 0.56494140625 ms
+Time 8: 0.748ms
+___Held-Karp answer  108
+___Times 8: 15.06103515625 ms
+___Times 8: 15.214ms
+SLS answer  150
+Time 9: 0.473876953125 ms
+Time 9: 0.589ms
+___Held-Karp answer  134
+___Times 9: 51.551025390625 ms
+___Times 9: 51.697ms
+SLS answer  127
+Time 10: 0.382080078125 ms
+Time 10: 0.54ms
+___Held-Karp answer  117
+___Times 10: 258.1201171875 ms
+___Times 10: 258.304ms
+SLS answer  138
+Time 11: 0.703125 ms
+Time 11: 0.873ms
+___Held-Karp answer  136
+___Times 11: 1172.39013671875 ms
+___Times 11: 1.173s
+SLS answer  149
+Time 12: 2.043212890625 ms
+Time 12: 2.14ms
+___Held-Karp answer  143
+___Times 12: 5343.926025390625 ms
+___Times 12: 5.344s
+SLS answer  267
+Time 13: 0.208984375 ms
+Time 13: 0.339ms
+___Held-Karp answer  200
+___Times 13: 26896.89990234375 ms
+___Times 13: 26.897s
+SLS answer  241
+Time 14: 0.31982421875 ms
+Time 14: 0.421ms
+___Held-Karp answer  208
+___Times 14: 138762.11401367188 ms
+___Times 14: 2:18.770 (m:ss.mmm)
+SLS answer  315
+Time 15: 0.19091796875 ms
+Time 15: 0.275ms
