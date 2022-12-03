@@ -13,10 +13,10 @@ const adjMatrix = [[0, 1, 15, 6],
                    [9, 6, 0, 12],
                    [10, 4, 8, 0]];
 
-const adjLen = adjMatrix.length;
-
 // calculates the best trip using the Held-Karp algorithim
 function bestTrip(distM) {
+    const adjLen = distM.length;
+  
     // initializes map for memoization
     let minCostIndex = new Map();
 
