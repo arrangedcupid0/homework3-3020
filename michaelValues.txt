@@ -14,3 +14,38 @@ HK answer 191
 HK graph of size 13: 75622.457ms
 HK answer 195
 HK graph of size 14: 379981.665ms
+
+SLS answer 3
+SLS graph of size 3: 3.040ms
+HK answer 3
+HK graph of size 3: 2.960ms
+HK answer 49
+HK graph of size 4: 0.156ms
+SLS answer 8
+SLS graph of size 5: 0.073ms
+HK answer 6
+HK graph of size 5: 0.324ms
+HK answer 69
+HK graph of size 6: 4.133ms
+SLS answer 27
+SLS graph of size 7: 0.125ms
+HK answer 19
+HK graph of size 7: 8.591ms
+SLS answer 226
+SLS graph of size 12: 0.395ms
+HK answer 136
+HK graph of size 12: 9610.829ms
+SLS answer 493
+SLS graph of size 18: 0.625ms
+SLS answer 13677
+SLS graph of size 120: 36.450ms
+SLS answer 58738
+SLS graph of size 260: 262.218ms
+SLS answer 369350
+SLS graph of size 600: 5444.824ms
+SLS answer 968622
+SLS graph of size 1000: 31478.802ms
+SLS answer 3923113
+SLS graph of size 2000: 539057.169ms
+SLS answer 9460426
+SLS graph of size 3000: 2668223.871ms
