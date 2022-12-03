@@ -141,7 +141,7 @@ function bestTrip(distM) {
                 var minPrev = 0;
                 for(let prevVertex of set) {
                     let tmp = getCost(set, prevVertex, minCostIndex);
-                    let cost = adjMatrix[prevVertex][currentVertex] + tmp;
+                    let cost = distM[prevVertex][currentVertex] + tmp;
                     if (cost < minCost) {
                         minCost = cost;
                         minPrev = prevVertex
