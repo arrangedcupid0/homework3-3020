@@ -2,7 +2,7 @@
 //Michael Stoll, W09860657 - Code is below
 //Beckham Carver, W09874167 - Code after
 
-// Sources:
+// Beckham Sources:
 //  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
 //  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set/delete
 //  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/keys
@@ -266,7 +266,7 @@ function test(n)
     console.log("SLS answer " , tsp_ls(graph));
     console.timeEnd("Time " + tag);
 
-    if (n < 20) {
+    if (n < 17) {
         console.time("___Times " + tag);
         console.log("___Held-Karp answer " , tsp_hk(graph));
         console.timeEnd("___Times " + tag);
