@@ -1,0 +1,16 @@
+HK answer 3
+HK graph of size 3: 4.414ms
+HK answer 35
+HK graph of size 4: 0.257ms
+HK answer 6
+HK graph of size 5: 1.476ms
+HK answer 67
+HK graph of size 6: 7.304ms
+HK answer 19
+HK graph of size 7: 11.566ms
+HK answer 136
+HK graph of size 12: 9975.668ms
+HK answer 191
+HK graph of size 13: 75622.457ms
+HK answer 195
+HK graph of size 14: 379981.665ms
