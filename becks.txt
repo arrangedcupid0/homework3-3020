@@ -77,3 +77,6 @@ Time 15: 0.275ms
 ___Held-Karp answer  228
 ___Times 15: 818581.1240234375 ms
 ___Times 15: 13:38.574 (m:ss.mmm)
+SLS answer  387
+Time 16: 0.43603515625 ms
+Time 16: 0.675ms
